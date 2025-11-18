@@ -1,7 +1,7 @@
 ---
 name: Sanji
 name_cn: 山治
-image: images/headshots/chenwei-zhu.jpg
+image: images/headshots/chenwei_zhu.jpg
 role: graduated
 ---
 

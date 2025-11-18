@@ -1,7 +1,7 @@
 ---
 name: Rukia Kuchiki
 name_cn: 朽木露琪亚
-image: images/headshots/hao-yang.jpg
+image: images/headshots/hao_yang.jpg
 role: ms
 year: 410
 link: /team/#/

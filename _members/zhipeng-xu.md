@@ -1,7 +1,7 @@
 ---
 name: Lucy Heartfilia
 name_cn: 露西·哈特菲利亚
-image: images/headshots/zhipeng-xu.jpg
+image: images/headshots/zhipeng_xu.jpg
 role: ms
 year: 201
 link: https://pab1x.github.io/

@@ -1,7 +1,7 @@
 ---
 name: Nezuko Kamado
 name_cn: 灶门祢豆子
-image: images/headshots/chunyi-peng.jpg
+image: images/headshots/chunyi_peng.jpg
 role: ms
 year: 402
 link: https://scholar.google.com/citations?user=dZfkLg4AAAAJ

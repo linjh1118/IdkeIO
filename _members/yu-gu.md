@@ -1,7 +1,7 @@
 ---
 name: Goku
 name_cn: 悟空
-image: images/headshots/goku.jpg
+image: images/headshots/yu_gu.jpg
 role: co
 year: 103
 link: https://dragonball.fandom.com/wiki/Goku

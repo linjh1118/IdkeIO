@@ -1,7 +1,7 @@
 ---
 name: Roronoa Zoro
 name_cn: 罗罗诺亚·索隆
-image: images/headshots/zidong-zeng.jpg
+image: images/headshots/zidong_zeng.jpg
 role: bs
 year: 2025
 link: /team/#/

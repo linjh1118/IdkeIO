@@ -1,7 +1,7 @@
 ---
 name: C.C.
 name_cn: C.C.
-image: images/headshots/xingjie-gao.jpg
+image: images/headshots/xingjie_gao.jpg
 role: ms
 year: 404
 link: https://kfkcome.github.io/about.html

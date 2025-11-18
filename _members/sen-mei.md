@@ -1,7 +1,7 @@
 ---
 name: Sakura Haruno
 name_cn: 春野樱
-image: images/headshots/sen-mei.jpg
+image: images/headshots/sen_mei.jpg
 role: graduated
 ---
 

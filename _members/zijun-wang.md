@@ -1,7 +1,7 @@
 ---
 name: Nami
 name_cn: 娜美
-image: images/headshots/zijun-wang.jpg
+image: images/headshots/zijun_wang.jpg
 role: ms
 year: 501
 link: /team/#/

@@ -1,7 +1,7 @@
 ---
 name: Gohan
 name_cn: 悟饭
-image: images/headshots/shuliang-liu.jpg
+image: images/headshots/shuliang_liu.jpg
 role: ms
 year: 306
 link: https://lifelsl.github.io/

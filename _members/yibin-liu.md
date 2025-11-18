@@ -1,7 +1,7 @@
 ---
 name: Alphonse Elric
 name_cn: 阿尔冯斯·爱力克
-image: images/headshots/yibin-liu.jpg
+image: images/headshots/yibin_liu.jpg
 role: graduated
 ---
 

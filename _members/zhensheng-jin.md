@@ -1,7 +1,7 @@
 ---
 name: Yuki Nagato
 name_cn: 长门有希
-image: images/headshots/zhensheng-jin.jpg
+image: images/headshots/zhensheng_jin.jpg
 role: ms
 year: 401
 link: /team/#/

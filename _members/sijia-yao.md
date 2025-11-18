@@ -1,7 +1,7 @@
 ---
 name: Mikasa Ackerman
 name_cn: 三笠·阿克曼
-image: images/headshots/mikasa.jpg
+image: images/headshots/sijia_yao.jpg
 role: graduated
 ---
 

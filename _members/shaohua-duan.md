@@ -1,7 +1,7 @@
 ---
 name: Kakashi Hatake
 name_cn: 旗木卡卡西
-image: images/headshots/shaohua-duan.jpg
+image: images/headshots/shaohua_duan.jpg
 role: ms
 year: 307
 link: /team/#/

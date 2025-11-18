@@ -1,7 +1,7 @@
 ---
 name: Shoyo Hinata
 name_cn: 日向翔阳
-image: images/headshots/yuqing-lan.jpg
+image: images/headshots/yuqing_lan.jpg
 role: phd
 year: 2020
 link: https://yuqinglanok.github.io/

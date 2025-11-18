@@ -1,7 +1,7 @@
 ---
 name: Rei Ayanami
 name_cn: 绫波丽
-image: images/headshots/xinyi-zhang.jpg
+image: images/headshots/xinyi_zhang.jpg
 role: graduated
 ---
 

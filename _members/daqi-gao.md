@@ -1,7 +1,7 @@
 ---
 name: Zenitsu Agatsuma
 name_cn: 我妻善逸
-image: images/headshots/daqi-gao.jpg
+image: images/headshots/daqi_gao.jpg
 role: bs
 year: 2025
 link: /team/#/

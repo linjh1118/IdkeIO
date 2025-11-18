@@ -1,7 +1,7 @@
 ---
 name: Naruto
 name_cn: 鸣人
-image: images/headshots/naruto.jpg
+image: images/headshots/ge_yu.jpg
 role: co
 year: 102
 link: https://naruto.fandom.com/wiki/Naruto_Uzumaki
