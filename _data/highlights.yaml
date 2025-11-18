@@ -1,0 +1,49 @@
+- authors:
+  - Mikasa Ackerman
+  - Eren Yeager
+  - Luffy
+  - Goku
+  - Edward Elric
+  - Naruto
+  date: '2025-01-01'
+  mark: emnlp2025-main
+  image: images/projects/expandr.png
+  link: 'https://onepiece.fandom.com/wiki/One_Piece'
+  publisher: 动漫研究期刊
+  title: '超越极限: 通过友情与羁绊突破战力上限的理论研究'
+- authors:
+  - Tanjiro Kamado
+  - Naruto
+  - Luffy
+  - Goku
+  - Edward Elric
+  date: '2025-01-01'
+  mark: emnlp2025-findings
+  image: images/projects/recut.png
+  link: 'https://naruto.fandom.com/wiki/Naruto'
+  publisher: 忍术研究协会
+  title: '呼吸法与查克拉: 平衡战斗时长与精准度的修炼体系'
+- authors:
+  - Eren Yeager
+  - Luffy
+  - Edward Elric
+  - Naruto
+  - Goku
+  date: '2025-01-01'
+  mark: nips2025
+  image: images/projects/parammute.png
+  link: 'https://attackontitan.fandom.com/wiki/Attack_on_Titan'
+  title: '巨人之力: 抑制关键能力以实现忠诚变身的理论框架'
+  publisher: 超能力研究年会
+- authors:
+  - Goku
+  - Luffy
+  - Naruto
+  - Edward Elric
+  - Eren Yeager
+  date: '2025-01-01'
+  mark: nips2025
+  image: images/projects/athought.png
+  link: 'https://dragonball.fandom.com/wiki/Dragon_Ball'
+  title: '龟派气功思维: 通过双向压缩实现低能耗高效推理'
+  publisher: 超能力研究年会

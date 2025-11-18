@@ -1,0 +1,80 @@
+# site properties and page defaults
+title: 二次元超能力研究所
+subtitle: Anime Characters Research Lab
+description: '二次元超能力研究所致力于研究各种动漫角色的能力体系、战斗技巧和成长历程。研究所由路飞、鸣人、悟空等传奇角色领衔指导，在友情、努力、胜利等核心理念指导下，培养了艾伦、炭治郎等新生代英雄。研究所在动漫研究期刊、忍术研究协会、超能力研究年会等顶级学术会议发表数十篇重要论文。主要研究方向包括：巨人变身机制、呼吸法修炼体系、查克拉控制理论、恶魔果实能力开发、炼金术等价交换原理等前沿课题。研究所与草帽海贼团、木叶忍者村、调查兵团、鬼杀队等组织保持长期合作，共同推动二次元世界和平与发展！'
+header: images/school.jpg
+footer: images/school.jpg
+proofer: false
+future: true
+
+# site social media and other links
+links:
+  email: contact@anime-research.lab
+  google-scholar: AnimeResearch
+  github: AnimeResearchLab
+  orcid: 0000-0000-0000-0000
+
+### jekyll settings
+
+# front matter defaults
+defaults:
+  # all markdown files
+  - scope:
+      path: ""
+    values:
+      layout: default
+  # markdown files in /_members
+  - scope:
+      type: "members"
+    values:
+      layout: member
+  # markdown files in /_posts
+  - scope:
+      type: "posts"
+    values:
+      layout: post
+  # Markdown files in /_cources
+  - scope:
+      type: "courses"
+    values:
+      layout: course
+
+collections:
+  # generate page for each member
+  members:
+    output: false
+  # generate page for each post
+  posts:
+    output: true
+  # generate page for each course
+  courses:
+    output: true
+
+# jekyll plugins
+plugins:
+  - jekyll-spaceship
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-last-modified-at
+
+# code block syntax highlighting
+highlighter: rouge
+
+# jekyll theme
+theme: null
+
+# sass settings
+sass:
+  sass_dir: _styles
+
+# force jekyll to include certain files/folders
+include:
+  - _styles
+  - _scripts
+
+# force jekyll to exclude certain files/folders
+exclude:
+  - README.md
+  - LICENSE.md
+  - CITATION.cff
