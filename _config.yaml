@@ -7,6 +7,12 @@ footer: images/school.jpg
 proofer: false
 future: true
 
+# GitHub Pages 配置 - 如果部署为子路径，请设置 baseurl
+baseurl: "/IdkeIO"  # 部署为 linjh1118.github.io/IdkeIO/ 时使用
+# baseurl: ""       # 部署为主页或自定义域名时取消注释此行，注释掉上一行
+
+url: "https://linjh1118.github.io"  # 你的 GitHub Pages 地址
+
 # site social media and other links
 links:
   email: contact@anime-research.lab
