@@ -1,7 +1,8 @@
 ---
-name: Sen Mei
-name_cn: 梅森
+name: Sakura Haruno
+name_cn: 春野樱
+image: images/headshots/sen-mei.jpg
 role: graduated
 ---
 
-This is Sen Mei's Personal Page.
+医疗忍者，怪力少女！

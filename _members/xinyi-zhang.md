@@ -1,7 +1,8 @@
 ---
-name: Xinyi Zhang
-name_cn: 张馨艺
+name: Rei Ayanami
+name_cn: 绫波丽
+image: images/headshots/xinyi-zhang.jpg
 role: graduated
 ---
 
-This is Xinyi Zhang's Personal Page.
+第一适格者，神秘少女！

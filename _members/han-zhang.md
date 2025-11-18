@@ -1,8 +1,9 @@
 ---
-name: Han Zhang
-name_cn: 张涵
+name: L Lawliet
+name_cn: L
+image: images/headshots/han-zhang.jpg
 role: graduated
 
 ---
 
-This is Han Zhang's Personal Page.
+世界第一侦探，甜食爱好者！

@@ -1,7 +1,7 @@
 ---
-name: Jiawei Zheng
-name_cn: 郑佳玮
-image: images/headshots/jiawei_zheng.jpg
+name: All Might
+name_cn: 欧尔麦特
+image: images/headshots/jiawei-zheng.jpg
 role: ex
 year: 2025
 affiliation: zhengjiaweice@163.com
@@ -9,4 +9,4 @@ description: PhD Student
 link: /team/#/
 ---
 
-This is Jiawei Zheng's Personal Page.
+和平的象征，最强英雄！

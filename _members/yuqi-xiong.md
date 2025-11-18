@@ -1,11 +1,11 @@
 ---
-name: Yuqi Xiong
-name_cn: 熊宇奇
-image: images/headshots/yuqi_xiong.jpg
+name: Mitsuha Miyamizu
+name_cn: 宫水三叶
+image: images/headshots/yuqi-xiong.jpg
 role: ms
 year: 405
 link: /team/#/
 affiliation: xyq_0354@163.com
 ---
 
-This is Yuqi Xiong's Personal Page.
+系守镇的巫女！

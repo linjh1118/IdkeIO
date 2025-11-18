@@ -1,11 +1,11 @@
 ---
-name: Yifan Ji
-name_cn: 季伊凡
-image: images/headshots/yifan_ji.jpg
+name: Gon Freecss
+name_cn: 小杰·富力士
+image: images/headshots/yifan-ji.jpg
 role: ms
 year: 303
 link: /team/#/
 affiliation: just_jyf@163.com
 ---
 
-This is Yifan Ji's Personal Page.
+寻找父亲的猎人！

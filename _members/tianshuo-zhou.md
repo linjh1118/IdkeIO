@@ -1,7 +1,8 @@
 ---
-name: Tianshuo Zhou
-name_cn: 周天硕
+name: Bulma
+name_cn: 布尔玛
+image: images/headshots/tianshuo-zhou.jpg
 role: graduated
 ---
 
-This is Tianshuo Zhou's Personal Page.
+天才科学家，胶囊公司继承人！

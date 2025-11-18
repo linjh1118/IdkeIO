@@ -1,7 +1,8 @@
 ---
-name: Yuyang Zhang
-name_cn: 张煜旸
+name: Tobio Kageyama
+name_cn: 影山飞雄
+image: images/headshots/yuyang-zhang.jpg
 role: graduated
 ---
 
-This is Yuyang Zhang's Personal Page.
+天才二传手！

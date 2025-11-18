@@ -1,7 +1,8 @@
 ---
-name: Chenwei Zhu
-name_cn: 朱宸炜
+name: Sanji
+name_cn: 山治
+image: images/headshots/chenwei-zhu.jpg
 role: graduated
 ---
 
-This is Chenwei Zhu's Personal Page.
+海上餐厅的大厨兼骑士！

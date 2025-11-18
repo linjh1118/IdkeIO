@@ -1,11 +1,11 @@
 ---
-name: Hao Yang
-name_cn: 杨昊
-image: images/headshots/hao_yang.jpg
+name: Rukia Kuchiki
+name_cn: 朽木露琪亚
+image: images/headshots/hao-yang.jpg
 role: ms
 year: 410
 link: /team/#/
 affiliation: nkcsyh@163.com
 ---
 
-This is Hao Yang's Personal Page.
+死神，传授一护死神之力！

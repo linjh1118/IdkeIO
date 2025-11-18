@@ -1,7 +1,8 @@
 ---
-name: Yuanhuiyi Lyu
-name_cn: 吕原汇一
+name: Violet Evergarden
+name_cn: 薇尔莉特·伊芙加登
+image: images/headshots/yuanhuiyi-lyu.jpg
 role: graduated
 ---
 
-This is Yuanhuiyi Lyu's Personal Page.
+自动手记人偶！

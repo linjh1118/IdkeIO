@@ -1,7 +1,8 @@
 ---
-name: Shuhao Liu
-name_cn: 刘书豪
+name: Vegeta
+name_cn: 贝吉塔
+image: images/headshots/shuhao-liu.jpg
 role: graduated
 ---
 
-This is Shuhao Liu's Personal Page.
+傲娇的赛亚人王子！

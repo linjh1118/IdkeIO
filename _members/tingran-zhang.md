@@ -1,7 +1,8 @@
 ---
-name: Tingran Zhang
-name_cn: 张听然
+name: Kirito
+name_cn: 桐人
+image: images/headshots/tingran-zhang.jpg
 role: graduated
 ---
 
-This is Tingran Zhang's Personal Page.
+刀剑神域的黑衣剑士！

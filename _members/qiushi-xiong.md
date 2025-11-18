@@ -1,7 +1,8 @@
 ---
-name: Qiushi Xiong
-name_cn: 熊秋实
+name: Monkey D. Dragon
+name_cn: 蒙奇·D·多拉格
+image: images/headshots/qiushi-xiong.jpg
 role: graduated
 ---
 
-This is Qiushi Xiong's Personal Page.
+革命军总司令！

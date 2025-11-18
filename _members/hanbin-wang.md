@@ -1,7 +1,8 @@
 ---
-name: Hanbin Wang
-name_cn: 王汉彬
+name: Ichigo Kurosaki
+name_cn: 黑崎一护
+image: images/headshots/hanbin-wang.jpg
 role: graduated
 ---
 
-This is Hanbin Wang's Personal Page.
+死神代理，保护同伴的热血少年！

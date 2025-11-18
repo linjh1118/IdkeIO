@@ -1,11 +1,11 @@
 ---
-name: Ruochang Li
-name_cn: 李若畅
-image: 
+name: Sasuke Uchiha
+name_cn: 宇智波佐助
+image: images/headshots/ruochang-li.jpg
 role: ms
 year: 503
 link: https://123thu.github.io/
 affiliation: ruochangli@gmail.com
 ---
 
-This is Ruochang Li's Personal Page.
+复仇者与火影挚友！

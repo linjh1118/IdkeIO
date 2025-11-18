@@ -1,7 +1,8 @@
 ---
-name: Yibin Liu
-name_cn: 刘艺彬
+name: Alphonse Elric
+name_cn: 阿尔冯斯·爱力克
+image: images/headshots/yibin-liu.jpg
 role: graduated
 ---
 
-This is Yibin Liu's Personal Page.
+灵魂附身在铠甲上的弟弟！

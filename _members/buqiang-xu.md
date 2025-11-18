@@ -1,7 +1,8 @@
 ---
-name: Buqiang Xu
-name_cn: 徐步强
+name: Nami
+name_cn: 娜美
+image: images/headshots/buqiang-xu.jpg
 role: graduated
 ---
 
-This is Buqiang Xu's Personal Page.
+航海士兼天气魔女！

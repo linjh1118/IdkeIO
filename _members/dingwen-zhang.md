@@ -1,11 +1,11 @@
 ---
-name: Dingwen Zhang
-name_cn: 张丁文
-image: images/headshots/dingwen_zhang.jpg
+name: Inosuke Hashibira
+name_cn: 嘴平伊之助
+image: images/headshots/dingwen-zhang.jpg
 role: ms
 year: 505
 link: https://0zero000zero0.github.io/dwzhang.github.io/
 affiliation: dwzhang2003@qq.com
 ---
 
-This is Dingwen Zhang's Personal Page.
+野猪头盔的狂战士！

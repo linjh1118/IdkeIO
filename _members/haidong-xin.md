@@ -1,11 +1,11 @@
 ---
-name: Haidong Xin
-name_cn: 辛海东
-image: images/headshots/haidong_xin.png
+name: Light Yagami
+name_cn: 夜神月
+image: images/headshots/haidong-xin.jpg
 role: ms
 year: 301
 link: https://xinhaidong.top
 affiliation: xinhaidong@stumail.neu.edu.cn
 ---
 
-This is Haidong Xin's Personal Page.
+拥有死亡笔记的天才！
