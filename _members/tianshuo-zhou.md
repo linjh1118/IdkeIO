@@ -1,7 +1,7 @@
 ---
 name: Bulma
 name_cn: 布尔玛
-image: images/headshots/tianshuo_zhou.jpg
+image: images/headshots/luffy.png
 role: graduated
 ---
 

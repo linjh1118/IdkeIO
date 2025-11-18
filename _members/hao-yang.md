@@ -1,7 +1,7 @@
 ---
 name: Rukia Kuchiki
 name_cn: 朽木露琪亚
-image: images/headshots/hao_yang.jpg
+image: images/headshots/luffy.png
 role: ms
 year: 410
 link: /team/#/

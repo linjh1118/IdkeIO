@@ -1,7 +1,7 @@
 ---
 name: Kirito
 name_cn: 桐人
-image: images/headshots/tingran_zhang.jpg
+image: images/headshots/luffy.png
 role: graduated
 ---
 

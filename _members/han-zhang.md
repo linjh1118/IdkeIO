@@ -1,7 +1,7 @@
 ---
 name: L Lawliet
 name_cn: L
-image: images/headshots/han_zhang.jpg
+image: images/headshots/luffy.png
 role: graduated
 
 ---

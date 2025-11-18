@@ -1,7 +1,7 @@
 ---
 name: Meliodas
 name_cn: 梅利奥达斯
-image: images/headshots/zhiyuan_liu.jpg
+image: images/headshots/luffy.png
 role: co
 year: 104
 link: https://nlp.csai.tsinghua.edu.cn/~lzy/

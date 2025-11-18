@@ -1,7 +1,7 @@
 ---
 name: Ichigo Kurosaki
 name_cn: 黑崎一护
-image: images/headshots/hanbin_wang.jpg
+image: images/headshots/luffy.png
 role: graduated
 ---
 

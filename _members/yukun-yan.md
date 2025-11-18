@@ -1,7 +1,7 @@
 ---
 name: Edward Elric
 name_cn: 爱德华·爱力克
-image: images/headshots/yukun_yan.jpg
+image: images/headshots/luffy.png
 role: co
 year: 105
 link: https://fma.fandom.com/wiki/Edward_Elric

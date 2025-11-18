@@ -1,7 +1,7 @@
 ---
 name: Shinji Ikari
 name_cn: 碇真嗣
-image: images/headshots/xingsheng_zhu.jpg
+image: images/headshots/luffy.png
 role: ms
 year: 304
 link: /team/#/

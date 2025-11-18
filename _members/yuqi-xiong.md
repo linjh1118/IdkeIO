@@ -1,7 +1,7 @@
 ---
 name: Mitsuha Miyamizu
 name_cn: 宫水三叶
-image: images/headshots/yuqi_xiong.jpg
+image: images/headshots/luffy.png
 role: ms
 year: 405
 link: /team/#/

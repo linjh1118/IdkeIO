@@ -1,7 +1,7 @@
 ---
 name: Asuna
 name_cn: 亚丝娜
-image: images/headshots/weiqing_yang.jpg
+image: images/headshots/luffy.png
 role: ms
 year: 203
 link: /team/#/

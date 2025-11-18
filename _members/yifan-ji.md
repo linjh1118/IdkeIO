@@ -1,7 +1,7 @@
 ---
 name: Gon Freecss
 name_cn: 小杰·富力士
-image: images/headshots/yifan_ji.jpg
+image: images/headshots/luffy.png
 role: ms
 year: 303
 link: /team/#/

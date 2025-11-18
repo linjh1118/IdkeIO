@@ -1,7 +1,7 @@
 ---
 name: Zenitsu Agatsuma
 name_cn: 我妻善逸
-image: images/headshots/daqi_gao.jpg
+image: images/headshots/luffy.png
 role: bs
 year: 2025
 link: /team/#/

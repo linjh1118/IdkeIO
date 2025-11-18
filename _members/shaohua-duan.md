@@ -1,7 +1,7 @@
 ---
 name: Kakashi Hatake
 name_cn: 旗木卡卡西
-image: images/headshots/shaohua_duan.jpg
+image: images/headshots/luffy.png
 role: ms
 year: 307
 link: /team/#/

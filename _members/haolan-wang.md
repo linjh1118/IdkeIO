@@ -1,7 +1,7 @@
 ---
 name: Saitama
 name_cn: 埼玉
-image: images/headshots/haolan_wang.jpg
+image: images/headshots/luffy.png
 role: graduated
 ---
 

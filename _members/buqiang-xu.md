@@ -1,7 +1,7 @@
 ---
 name: Nami
 name_cn: 娜美
-image: images/headshots/buqiang_xu.jpg
+image: images/headshots/luffy.png
 role: graduated
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: Tanjiro Kamado
 name_cn: 灶门炭治郎
-image: images/headshots/xinze_li.jpg
+image: images/headshots/luffy.png
 role: phd
 year: 2024
 link: https://kimetsu-no-yaiba.fandom.com/wiki/Tanjiro_Kamado

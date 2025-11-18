@@ -1,7 +1,7 @@
 ---
 name: Alphonse Elric
 name_cn: 阿尔冯斯·爱力克
-image: images/headshots/yibin_liu.jpg
+image: images/headshots/luffy.png
 role: graduated
 ---
 

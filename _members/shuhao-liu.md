@@ -1,7 +1,7 @@
 ---
 name: Vegeta
 name_cn: 贝吉塔
-image: images/headshots/shuhao_liu.jpg
+image: images/headshots/luffy.png
 role: graduated
 ---
 

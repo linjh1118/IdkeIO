@@ -1,7 +1,7 @@
 ---
 name: Nami
 name_cn: 娜美
-image: images/headshots/zijun_wang.jpg
+image: images/headshots/luffy.png
 role: ms
 year: 501
 link: /team/#/

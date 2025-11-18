@@ -1,7 +1,7 @@
 ---
 name: Luffy
 name_cn: 路飞
-image: images/headshots/zhenghao_liu.jpg
+image: images/headshots/luffy.png
 role: pi
 year: 2021
 link: https://onepiece.fandom.com/wiki/Monkey_D._Luffy

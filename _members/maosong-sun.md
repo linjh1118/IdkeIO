@@ -1,7 +1,7 @@
 ---
 name: Izuku Midoriya
 name_cn: 绿谷出久
-image: images/headshots/maosong_sun.jpg
+image: images/headshots/luffy.png
 role: co
 year: 101
 link: https://nlp.csai.tsinghua.edu.cn/staff/sms/

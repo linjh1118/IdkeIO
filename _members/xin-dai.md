@@ -1,7 +1,7 @@
 ---
 name: Lelouch
 name_cn: 鲁路修
-image: images/headshots/xin_dai.jpg
+image: images/headshots/luffy.png
 role: ms
 year: 407
 link: https://doradai28.github.io/daix28.github.io/

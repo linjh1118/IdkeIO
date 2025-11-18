@@ -1,7 +1,7 @@
 ---
 name: Violet Evergarden
 name_cn: 薇尔莉特·伊芙加登
-image: images/headshots/yuanhuiyi_lyu.jpg
+image: images/headshots/luffy.png
 role: graduated
 ---
 

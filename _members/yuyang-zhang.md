@@ -1,7 +1,7 @@
 ---
 name: Tobio Kageyama
 name_cn: 影山飞雄
-image: images/headshots/yuyang_zhang.jpg
+image: images/headshots/luffy.png
 role: graduated
 ---
 

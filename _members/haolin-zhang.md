@@ -1,7 +1,7 @@
 ---
 name: Genos
 name_cn: 杰诺斯
-image: images/headshots/haolin_zhang.jpg
+image: images/headshots/luffy.png
 role: ms
 year: 406
 link: /team/#/

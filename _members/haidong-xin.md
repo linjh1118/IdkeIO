@@ -1,7 +1,7 @@
 ---
 name: Light Yagami
 name_cn: 夜神月
-image: images/headshots/haidong_xin.jpg
+image: images/headshots/luffy.png
 role: ms
 year: 301
 link: https://xinhaidong.top

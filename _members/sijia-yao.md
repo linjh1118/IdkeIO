@@ -1,7 +1,7 @@
 ---
 name: Mikasa Ackerman
 name_cn: 三笠·阿克曼
-image: images/headshots/sijia_yao.jpg
+image: images/headshots/luffy.png
 role: graduated
 ---
 
