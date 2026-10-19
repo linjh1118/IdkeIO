@@ -1,0 +1,11 @@
+{
+  "source": "https://faculty.neu.edu.cn/zhangfu/zh_CN/zdylm/394110/list/index.htm",
+  "checked": "2026-10-20",
+  "scope": "Listed papers; Main and Findings; excludes submissions",
+  "counts": {
+    "ACL Main": 4,
+    "ACL Findings": 8,
+    "EMNLP Main": 4,
+    "EMNLP Findings": 7
+  }
+}

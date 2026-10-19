@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: 二次元超能力研究所
-subtitle: Anime Characters Research Lab
-description: '二次元超能力研究所致力于研究各种动漫角色的能力体系、战斗技巧和成长历程。研究所由路飞、鸣人、悟空等传奇角色领衔指导，在友情、努力、胜利等核心理念指导下，培养了艾伦、炭治郎等新生代英雄。研究所在动漫研究期刊、忍术研究协会、超能力研究年会等顶级学术会议发表数十篇重要论文。主要研究方向包括：巨人变身机制、呼吸法修炼体系、查克拉控制理论、恶魔果实能力开发、炼金术等价交换原理等前沿课题。研究所与草帽海贼团、木叶忍者村、调查兵团、鬼杀队等组织保持长期合作，共同推动二次元世界和平与发展！'
+title: IDKE 实验室
+subtitle: Northeastern University · 东北大学
+description: 'IDKE 实验室聚焦大语言模型、知识图谱与自然语言处理，探索偏好对齐、智能体、多模态理解、知识图谱补全与推理。'
 header: images/school.jpg
 footer: images/school.jpg
 proofer: false
@@ -15,10 +15,7 @@ url: "https://linjh1118.github.io"  # 你的 GitHub Pages 地址
 
 # site social media and other links
 links:
-  email: contact@anime-research.lab
-  google-scholar: AnimeResearch
-  github: AnimeResearchLab
-  orcid: 0000-0000-0000-0000
+  github: linjh1118/IdkeIO
 
 ### jekyll settings
 
@@ -84,3 +81,14 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
+
+  # Retain template examples in source, but do not publish them as IDKE content.
+  - _posts
+  - _courses
+  - news
+  - course
+  - projects
+  - 如何改成你自己的实验室主页.md
+  - 快速部署指南.md
+  - 更新日志.md
+  - 部署教程.md

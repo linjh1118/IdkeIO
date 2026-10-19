@@ -4,16 +4,8 @@ nav:
   order: 1
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}论文发表
 
-## ALL
+以下展示已核对的部分代表工作；完整列表请参考[教师科研论文页](https://faculty.neu.edu.cn/zhangfu/zh_CN/zdylm/394110/list/index.htm)。
 
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-## Conference
-{% include list.html data="citations" component="citation" filters="publisher: .*Proceedings.*" style="rich" %}
-
-## Journal
-{% include list.html data="citations" component="citation" filters="publisher: .*Journal.*" style="rich" %}
+{% include list.html data="highlights" component="citation" %}

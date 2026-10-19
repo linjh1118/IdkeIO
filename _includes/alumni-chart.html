@@ -1,0 +1,12 @@
+<div class="alumni-dashboard">
+  <div class="alumni-toolbar"><h3>毕业去向分布</h3><label for="alumni-year">毕业年份 <select id="alumni-year"><option value="all">全部年份</option>{% assign years = site.data.alumni | map: "year" | uniq | sort | reverse %}{% for year in years %}<option value="{{ year }}">{{ year }} 年</option>{% endfor %}</select></label></div>
+  <div class="alumni-chart-layout">
+    <div class="alumni-donut"><svg id="alumni-chart" viewBox="0 0 240 240" role="img" aria-label="毕业去向环形饼图"></svg><div class="alumni-total"><strong id="alumni-total">38</strong><span>位毕业生</span></div></div>
+    <ul id="alumni-legend" class="alumni-legend" aria-label="去向人数与占比"></ul>
+  </div>
+  <details><summary>查看各单位完整人数</summary><div id="alumni-breakdown" class="alumni-breakdown"></div></details>
+  <p class="lab-note">按资料表中的毕业去向统计，非现任职单位；含姓名待补记录。南京大学与“读博”归入继续深造，其余未单列单位合并为“其他单位”。</p>
+  <noscript><p>请启用 JavaScript 查看图表，或通过下方链接查看完整名单。</p></noscript>
+</div>
+<script id="alumni-chart-data" type="application/json">{{ site.data.alumni | jsonify }}</script>
+<script src="{{ '/js/alumni-chart.js' | relative_url }}" defer></script>

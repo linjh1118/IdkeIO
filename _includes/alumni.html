@@ -1,0 +1,24 @@
+{% assign cohorts = site.data.alumni | group_by: "year" | sort: "name" | reverse %}
+{% for cohort in cohorts %}
+<h3>{{ cohort.name }} 年 · {{ cohort.items.size }} 人</h3>
+<div style="overflow-x: auto;">
+<table>
+  <thead><tr><th>序号</th><th>姓名</th><th>公司／去向</th><th>岗位</th><th>个人链接</th></tr></thead>
+  <tbody>
+  {% for member in cohort.items %}
+    <tr>
+      <td>{{ member.id }}</td>
+      <td>{{ member.name | escape }}{% if member.placeholder %}<small>（待补）</small>{% endif %}</td>
+      <td>{{ member.company | escape }}{% if member.note != empty %}<br><small>{{ member.note | escape }}</small>{% endif %}</td>
+      <td>{% if member.job == "--" %}—{% else %}{{ member.job | escape }}{% endif %}</td>
+      <td>
+        {% if member.scholar != empty %}<a href="{{ member.scholar | escape }}">Scholar</a>{% endif %}
+        {% if member.home != empty %}<a href="{{ member.home | escape }}">主页</a>{% endif %}
+        {% if member.orid %}<a href="https://openreview.net/profile?id=~{{ member.orid }}">OpenReview</a>{% endif %}
+      </td>
+    </tr>
+  {% endfor %}
+  </tbody>
+</table>
+</div>
+{% endfor %}
