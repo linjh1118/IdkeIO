@@ -5,11 +5,11 @@
 {% for member in cohort.items %}
   <article class="student-card">
     {% if member.image and member.image != empty %}
-    <img class="student-avatar" src="{{ member.image | relative_url }}" alt="{{ member.name | escape }}的头像" loading="lazy" width="80" height="80">
+    <img class="student-avatar" src="{{ member.image | relative_url }}" alt="{{ member.name | slice: 0, 1 | append: "**" | escape }}的头像" loading="lazy" width="80" height="80">
     {% else %}
-    <div class="student-avatar student-avatar-empty" role="img" aria-label="{{ member.name | escape }}的头像暂未提供"></div>
+    <div class="student-avatar student-avatar-empty" role="img" aria-label="{{ member.name | slice: 0, 1 | append: "**" | escape }}的头像暂未提供"></div>
     {% endif %}
-    <h4>{{ member.name | escape }}</h4>
+    <h4>{{ member.name | slice: 0, 1 | append: "**" | escape }}</h4>
     {% assign organization = site.data.organizations[member.company] %}
     {% if organization.image and organization.image != empty %}
     <div class="student-organization-logo{% if organization.dark %} organization-dark{% endif %}"><img src="{{ organization.image | relative_url }}" alt="{{ member.company | escape }} Logo" loading="lazy" width="100" height="64"></div>
@@ -35,7 +35,7 @@
   {% for member in cohort.items %}
     <tr>
       <td>{{ member.id }}</td>
-      <td>{{ member.name | escape }}{% if member.placeholder %}<small>（待补）</small>{% endif %}</td>
+      <td>{{ member.name | slice: 0, 1 | append: "**" | escape }}{% if member.placeholder %}<small>（待补）</small>{% endif %}</td>
       <td>{{ member.company | escape }}{% if member.note != empty %}<br><small>{{ member.note | escape }}</small>{% endif %}</td>
       <td>{% if member.job == "--" %}—{% else %}{{ member.job | escape }}{% endif %}</td>
       <td>
