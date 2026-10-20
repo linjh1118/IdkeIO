@@ -56,4 +56,5 @@
 @media (max-width: 1099px) { .student-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
 @media (max-width: 600px) { .student-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 
-.student-organization-logo.organization-dark { background: #34536c; padding: 6px; box-sizing: border-box; }
+/* White source logos need a dark monochrome treatment on the white cards. */
+.student-organization-logo.organization-dark img { filter: brightness(0); opacity: .75; }
