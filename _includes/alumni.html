@@ -10,6 +10,12 @@
     <div class="student-avatar student-avatar-empty" role="img" aria-label="{{ member.name | escape }}的头像暂未提供"></div>
     {% endif %}
     <h4>{{ member.name | escape }}</h4>
+    {% assign organization = site.data.organizations[member.company] %}
+    {% if organization.image and organization.image != empty %}
+    <div class="student-organization-logo{% if organization.dark %} organization-dark{% endif %}"><img src="{{ organization.image | relative_url }}" alt="{{ member.company | escape }} Logo" loading="lazy" width="100" height="64"></div>
+    {% else %}
+    <div class="student-organization-logo organization-name"><span>{{ member.company | escape }}</span></div>
+    {% endif %}
     <p class="student-company">{{ member.company | escape }}</p>
     <p class="student-job">{% if member.job != "--" %}{{ member.job | escape }}{% else %}&nbsp;{% endif %}</p>
     <div class="student-links">
@@ -20,7 +26,7 @@
   </article>
 {% endfor %}
 </div>
-<details class="student-table">
+<details class="student-table" open>
 <summary>查看 {{ cohort.name }} 届完整表格（{{ cohort.items.size }} 人）</summary>
 <div style="overflow-x: auto;">
 <table>

@@ -1,0 +1,124 @@
+{
+  "字节跳动": {
+    "image": "images/organizations/bytedance.com.svg",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/bytedance.svg"
+  },
+  "美团": {
+    "image": "images/organizations/meituan.com.svg",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/meituan.svg"
+  },
+  "百度": {
+    "image": "images/organizations/baidu.com.svg",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/baidu.svg"
+  },
+  "阿里巴巴": {
+    "image": "images/organizations/alibaba.com.svg",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/alibabadotcom.svg"
+  },
+  "腾讯": {
+    "image": "images/organizations/腾讯.png",
+    "source": "https://www.tencent.com/wp-content/uploads/2022/12/logo@2x.png?2"
+  },
+  "华为": {
+    "image": "images/organizations/huawei.com.svg",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/huawei.svg"
+  },
+  "小米": {
+    "image": "images/organizations/mi.com.svg",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/xiaomi.svg"
+  },
+  "联想": {
+    "image": "images/organizations/lenovo.com.svg",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/lenovo.svg"
+  },
+  "京东": {
+    "image": "images/organizations/京东.ico",
+    "source": "https://storage.360buyimg.com/retail-mall/mall-common-component/favicon.ico"
+  },
+  "小红书": {
+    "image": "images/organizations/xiaohongshu.com.svg",
+    "source": "https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/xiaohongshu.svg"
+  },
+  "拼多多": {
+    "image": "images/organizations/拼多多.png",
+    "source": "https://cdn.pinduoduo.com/upload/home/img/common/pdd_logo_v2.png"
+  },
+  "比亚迪": {
+    "image": "images/organizations/比亚迪.png",
+    "source": "https://www.byd.com/material/domestic-official/header/logo.png",
+    "dark": true
+  },
+  "智谱": {
+    "image": "images/organizations/智谱.svg",
+    "source": "https://www.zhipuai.cn/logo.svg"
+  },
+  "度小满": {
+    "image": "",
+    "source": ""
+  },
+  "辽宁移动": {
+    "image": "",
+    "source": ""
+  },
+  "中国农业银行": {
+    "image": "images/organizations/中国农业银行.png",
+    "source": "https://www.abchina.com/cn/images/logo_ue2.png"
+  },
+  "南京大学": {
+    "image": "images/organizations/南京大学.png",
+    "source": "https://www.nju.edu.cn/images/logo.png",
+    "dark": true
+  },
+  "天津大学读博": {
+    "image": "images/organizations/天津大学读博.png",
+    "source": "https://www.tju.edu.cn/images/tjulogo.png",
+    "dark": true
+  },
+  "大连理工大学读博": {
+    "image": "images/organizations/大连理工大学读博.svg",
+    "source": "https://www.dlut.edu.cn/images/logo.svg",
+    "dark": true
+  },
+  "东北大学读博": {
+    "image": "images/organizations/东北大学读博.png",
+    "source": "https://www.neu.edu.cn/images/libpic/logo2.png",
+    "dark": true
+  },
+  "中信银行": {
+    "image": "images/organizations/中信银行.png",
+    "source": "https://www.citicbank.com/include/top/logo/201512/W020260409637632341390.png"
+  },
+  "渤海银行": {
+    "image": "images/organizations/渤海银行.png",
+    "source": "https://www.cbhb.com.cn/uiFramework/commonResource/image/2025022721000510651.png"
+  },
+  "理想汽车": {
+    "image": "images/organizations/理想汽车.ico",
+    "source": "https://www.lixiang.com/favicon.ico"
+  },
+  "联通软研院": {
+    "image": "",
+    "source": ""
+  },
+  "北京中科闻歌科技有限公司": {
+    "image": "images/organizations/北京中科闻歌科技有限公司.svg",
+    "source": "https://www.wenge.com/cityMini/site/static/wenge/assets/image/logo-new1.svg",
+    "dark": true
+  },
+  "大连飞创信息技术有限公司": {
+    "image": "",
+    "source": ""
+  },
+  "上海华测导航技术股份有限公司": {
+    "image": "images/organizations/上海华测导航技术股份有限公司.png",
+    "source": "https://www.huace.cn/_nuxt/img/logo_phone.c1760ef.png"
+  },
+  "中国兵器第二一四研究所": {
+    "image": "",
+    "source": ""
+  },
+  "中科院长春光学精密机械与物理研究所": {
+    "image": "images/organizations/中科院长春光学精密机械与物理研究所.png",
+    "source": "https://ciomp.cas.cn/images/logo_ccgj2025.png"
+  }
+}
