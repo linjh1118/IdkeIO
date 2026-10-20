@@ -15,7 +15,7 @@
     for (const member of selected) {
       const company = member.company;
       companies.set(company, (companies.get(company) || 0) + 1);
-      const category = ['读博', '南京大学'].includes(company) ? '继续深造' : categories.includes(company) ? company : '其他单位';
+      const category = member.destination_type === 'study' ? '继续深造' : categories.includes(company) ? company : '其他单位';
       groups.set(category, groups.get(category) + 1);
     }
     svg.replaceChildren();

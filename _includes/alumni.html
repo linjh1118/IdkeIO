@@ -1,6 +1,27 @@
 {% assign cohorts = site.data.alumni | group_by: "year" | sort: "name" | reverse %}
 {% for cohort in cohorts %}
 <h3>{{ cohort.name }} 年 · {{ cohort.items.size }} 人</h3>
+<div class="student-grid">
+{% for member in cohort.items %}
+  <article class="student-card">
+    {% if member.image and member.image != empty %}
+    <img class="student-avatar" src="{{ member.image | relative_url }}" alt="{{ member.name | escape }}的头像" loading="lazy" width="80" height="80">
+    {% else %}
+    <div class="student-avatar student-avatar-empty" role="img" aria-label="{{ member.name | escape }}的头像暂未提供"></div>
+    {% endif %}
+    <h4>{{ member.name | escape }}</h4>
+    <p class="student-company">{{ member.company | escape }}</p>
+    <p class="student-job">{% if member.job != "--" %}{{ member.job | escape }}{% else %}&nbsp;{% endif %}</p>
+    <div class="student-links">
+      {% if member.scholar != empty %}<a href="{{ member.scholar | escape }}">Scholar</a>{% endif %}
+      {% if member.home != empty %}<a href="{{ member.home | escape }}">主页</a>{% endif %}
+      {% if member.orid %}<a href="https://openreview.net/profile?id=~{{ member.orid }}">OpenReview</a>{% endif %}
+    </div>
+  </article>
+{% endfor %}
+</div>
+<details class="student-table">
+<summary>查看 {{ cohort.name }} 届完整表格（{{ cohort.items.size }} 人）</summary>
 <div style="overflow-x: auto;">
 <table>
   <thead><tr><th>序号</th><th>姓名</th><th>公司／去向</th><th>岗位</th><th>个人链接</th></tr></thead>
@@ -21,4 +42,5 @@
   </tbody>
 </table>
 </div>
+</details>
 {% endfor %}

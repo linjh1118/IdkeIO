@@ -9,7 +9,9 @@
     "note": "",
     "year": 2026,
     "placeholder": false,
-    "orid": "Guoqing_Chen5"
+    "orid": "Guoqing_Chen5",
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "2",
@@ -21,7 +23,9 @@
     "note": "",
     "year": 2026,
     "placeholder": false,
-    "orid": "Chenglong_Lu1"
+    "orid": "Chenglong_Lu1",
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "3",
@@ -32,40 +36,48 @@
     "home": "",
     "note": "",
     "year": 2026,
-    "placeholder": false
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "4",
-    "name": "A",
+    "name": "周林锋",
     "company": "京东",
     "job": "LLM算法岗",
     "scholar": "",
     "home": "",
     "note": "",
     "year": 2026,
-    "placeholder": true
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "5",
-    "name": "B",
+    "name": "于洪森",
     "company": "联想",
     "job": "算法岗",
     "scholar": "",
     "home": "",
     "note": "",
     "year": 2026,
-    "placeholder": true
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "6",
-    "name": "C",
+    "name": "刘赫",
     "company": "度小满",
     "job": "算法岗",
     "scholar": "",
     "home": "",
     "note": "",
     "year": 2026,
-    "placeholder": true
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "7",
@@ -77,22 +89,26 @@
     "note": "",
     "year": 2026,
     "placeholder": false,
-    "orid": "Mingxiao_Guo1"
+    "orid": "Mingxiao_Guo1",
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "8",
-    "name": "D",
+    "name": "张攀峰",
     "company": "中国农业银行",
     "job": "--",
     "scholar": "",
     "home": "",
     "note": "",
     "year": 2026,
-    "placeholder": true
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "9",
-    "name": "严意",
+    "name": "颜毅",
     "company": "南京大学",
     "job": "--",
     "scholar": "",
@@ -100,7 +116,9 @@
     "note": "OpenReview：2026年起在南京大学攻读博士。",
     "year": 2026,
     "placeholder": false,
-    "orid": "Yi_Yan3"
+    "orid": "Yi_Yan3",
+    "image": "",
+    "destination_type": "study"
   },
   {
     "id": "10",
@@ -112,7 +130,9 @@
     "note": "",
     "year": 2025,
     "placeholder": false,
-    "orid": "Jinghao_Lin2"
+    "orid": "Jinghao_Lin2",
+    "image": "images/jinghao-lin.jpg",
+    "destination_type": "employment"
   },
   {
     "id": "11",
@@ -123,7 +143,9 @@
     "home": "",
     "note": "",
     "year": 2025,
-    "placeholder": false
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "12",
@@ -134,7 +156,9 @@
     "home": "",
     "note": "",
     "year": 2025,
-    "placeholder": false
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "13",
@@ -145,29 +169,35 @@
     "home": "",
     "note": "",
     "year": 2025,
-    "placeholder": false
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "14",
-    "name": "许川皓",
-    "company": "航科院中宇",
+    "name": "徐川皓",
+    "company": "天津大学读博",
     "job": "--",
     "scholar": "",
     "home": "",
     "note": "",
     "year": 2025,
-    "placeholder": false
+    "placeholder": false,
+    "image": "",
+    "destination_type": "study"
   },
   {
     "id": "15",
     "name": "张大庆",
-    "company": "大连飞创信息技术有限公司",
+    "company": "联通软研院",
     "job": "--",
     "scholar": "",
     "home": "",
     "note": "",
     "year": 2025,
-    "placeholder": false
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "16",
@@ -178,7 +208,9 @@
     "home": "",
     "note": "",
     "year": 2025,
-    "placeholder": false
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "17",
@@ -189,18 +221,22 @@
     "home": "",
     "note": "",
     "year": 2025,
-    "placeholder": false
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "18",
     "name": "李佳怡",
-    "company": "阿里巴巴",
+    "company": "大连飞创信息技术有限公司",
     "job": "算法岗",
     "scholar": "",
     "home": "",
     "note": "",
     "year": 2025,
-    "placeholder": false
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "19",
@@ -211,7 +247,9 @@
     "home": "",
     "note": "",
     "year": 2024,
-    "placeholder": false
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "20",
@@ -222,7 +260,9 @@
     "home": "",
     "note": "",
     "year": 2024,
-    "placeholder": false
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "21",
@@ -234,7 +274,9 @@
     "note": "去向待核实：本表为小米；OpenReview列2024年至今在作业帮。保留用户填写去向。",
     "year": 2024,
     "placeholder": false,
-    "orid": "Pengpeng_Qiu1"
+    "orid": "Pengpeng_Qiu1",
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "22",
@@ -245,7 +287,9 @@
     "home": "",
     "note": "",
     "year": 2024,
-    "placeholder": false
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "23",
@@ -256,171 +300,203 @@
     "home": "",
     "note": "",
     "year": 2024,
-    "placeholder": false
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "24",
     "name": "许芷钰",
-    "company": "读博",
+    "company": "大连理工大学读博",
     "job": "--",
     "scholar": "",
     "home": "",
     "note": "",
     "year": 2024,
-    "placeholder": false
+    "placeholder": false,
+    "image": "",
+    "destination_type": "study"
   },
   {
     "id": "25",
     "name": "秦杰杰",
-    "company": "字节跳动",
-    "job": "算法岗",
-    "scholar": "",
-    "home": "",
-    "note": "",
-    "year": 2023,
-    "placeholder": false
-  },
-  {
-    "id": "26",
-    "name": "E",
     "company": "阿里巴巴",
     "job": "算法岗",
     "scholar": "",
     "home": "",
     "note": "",
     "year": 2023,
-    "placeholder": true
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
+  },
+  {
+    "id": "26",
+    "name": "魏志林",
+    "company": "字节跳动",
+    "job": "算法岗",
+    "scholar": "",
+    "home": "",
+    "note": "",
+    "year": 2023,
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "27",
-    "name": "F",
+    "name": "任颖",
     "company": "百度",
     "job": "算法岗",
     "scholar": "",
     "home": "",
     "note": "",
     "year": 2023,
-    "placeholder": true
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "28",
-    "name": "G",
+    "name": "陈明",
     "company": "比亚迪",
     "job": "算法岗",
     "scholar": "",
     "home": "",
     "note": "",
     "year": 2023,
-    "placeholder": true
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "29",
-    "name": "H",
+    "name": "张薇",
     "company": "渤海银行",
     "job": "--",
     "scholar": "",
     "home": "",
     "note": "",
     "year": 2023,
-    "placeholder": true
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "30",
-    "name": "I",
+    "name": "王新东",
     "company": "中国兵器第二一四研究所",
     "job": "--",
     "scholar": "",
     "home": "",
     "note": "",
     "year": 2023,
-    "placeholder": true
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "31",
-    "name": "J",
+    "name": "齐翌辰",
     "company": "中科院长春光学精密机械与物理研究所",
     "job": "--",
     "scholar": "",
     "home": "",
     "note": "",
     "year": 2023,
-    "placeholder": true
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "32",
-    "name": "K",
+    "name": "马良栋",
     "company": "字节跳动",
     "job": "算法岗",
     "scholar": "",
     "home": "",
     "note": "",
     "year": 2022,
-    "placeholder": true
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "33",
-    "name": "L",
+    "name": "朱玉洁",
     "company": "字节跳动",
     "job": "算法岗",
     "scholar": "",
     "home": "",
     "note": "",
     "year": 2022,
-    "placeholder": true
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "34",
-    "name": "M",
+    "name": "李健伟",
     "company": "腾讯",
     "job": "算法岗",
     "scholar": "",
     "home": "",
     "note": "",
     "year": 2022,
-    "placeholder": true
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "35",
-    "name": "N",
+    "name": "陈广",
     "company": "拼多多",
     "job": "算法岗",
     "scholar": "",
     "home": "",
     "note": "",
     "year": 2022,
-    "placeholder": true
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "36",
-    "name": "O",
+    "name": "路清哲",
     "company": "百度",
     "job": "算法岗",
     "scholar": "",
     "home": "",
     "note": "",
     "year": 2022,
-    "placeholder": true
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "37",
-    "name": "P",
+    "name": "史宇哲",
     "company": "渤海银行",
     "job": "--",
     "scholar": "",
     "home": "",
     "note": "",
     "year": 2022,
-    "placeholder": true
+    "placeholder": false,
+    "image": "",
+    "destination_type": "employment"
   },
   {
     "id": "38",
-    "name": "Q",
-    "company": "读博",
+    "name": "陈宏栉",
+    "company": "东北大学读博",
     "job": "--",
     "scholar": "",
     "home": "",
     "note": "",
     "year": 2022,
-    "placeholder": true
+    "placeholder": false,
+    "image": "",
+    "destination_type": "study"
   }
 ]

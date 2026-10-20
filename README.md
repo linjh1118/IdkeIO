@@ -37,3 +37,7 @@ bundle exec jekyll serve --host 127.0.0.1 --port 8769
 - ACL 代表作对应链接均直接指向 ACL Anthology，明确区分 Main 与 Findings。
 - 张富头像来自其 Google Scholar 公开头像（user=nYnHOqoAAAAJ），本地保存为 `images/fu-zhang.jpg`；来源原图为 85×128，保留原图未生成或改造人像。
 - 去向环形图直接读取 `_data/alumni.json`，与成员表共用数据，包含待补姓名记录；年份筛选后重新计算人数和占比。“南京大学”和“读博”合并为继续深造；其他单位可展开查看完整分布。
+
+### 成员资料同步（2026-10-20，文档 revision 185）
+
+38 位毕业生姓名已补全；按最新资料表同步姓名、去向和个人链接。成员页按年展示个人卡片，并保留可展开的完整表格。`_data/alumni.json` 中 `image` 为空时保留空白头像位，可填写仓库内图片路径。林景豪头像使用 GitHub 账号 linjh1118 的公开头像。`destination_type` 区分工作与继续深造，饼图按同一份名单实时计算。
